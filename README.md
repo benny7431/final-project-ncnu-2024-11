@@ -9,17 +9,17 @@
 ## 輸入與輸出設備
 1. **8x8 LED 矩陣**
    - 遊戲畫面會顯示在這個矩陣上，例如蛇的位置、牆壁或其他物件。
-   - **圖片連結**: [8x8 LED 矩陣](https://github.com/fanboys2077/-final_project/blob/main/messageImage_1704354014732.jpg)
+   - **圖片連結**: [8x8 LED 矩陣](https://github.com/benny7431/final-project-ncnu-2024-11/blob/main/732.jpg)
 
 2. **七段顯示器**
    - 顯示玩家當前的遊戲分數。
-   - **圖片連結**: [七段顯示器](https://github.com/fanboys2077/-final_project/blob/main/messageImage_1704354149012.jpg)
+   - **圖片連結**: [七段顯示器](https://github.com/benny7431/final-project-ncnu-2024-11/blob/main/012.jpg)
 
 3. **指撥開關**
    - 用來控制遊戲的開始或重置。
      - `0`：開始遊戲
      - `1`：重置遊戲
-   - **圖片連結**: [指撥開關](https://github.com/fanboys2077/-final_project/blob/main/messageImage_1704354034458.jpg)
+   - **圖片連結**: [指撥開關](https://github.com/benny7431/final-project-ncnu-2024-11/blob/main/458.jpg)
 
 4. **S1, S2, S3, S4 按鈕**
    - 藉由按鈕控制蛇的移動方向：
@@ -27,7 +27,7 @@
      - S2: 下移
      - S3: 左移
      - S4: 右移
-   - **圖片連結**: [方向按鈕](https://github.com/fanboys2077/-final_project/blob/main/messageImage_1704354088854.jpg)
+   - **圖片連結**: [方向按鈕](https://github.com/benny7431/final-project-ncnu-2024-11/blob/main/854.jpg)
 
 ---
 
